@@ -1,0 +1,12 @@
+{
+  "name": "@hero/h5",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@hero/model": "workspace:*",
+    "@hero/shared": "workspace:*"
+  }
+}
